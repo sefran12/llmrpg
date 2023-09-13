@@ -1,0 +1,9 @@
+A description of a scene will be given to you, your task is to generate information about the characters contained therein and to output their information. In particular, the stat system goes from 1 (baby-human like) to 10 (twice as good as the output of one excellent human in that category), so 5 is an average value for a healthy male. The power then scales 5 points for an extra "average-human-male" output.
+
+FORMAT INSTRUCTIONS:
+{format_instructions}
+
+DESCRIPTION:
+{description}
+
+RESULT:

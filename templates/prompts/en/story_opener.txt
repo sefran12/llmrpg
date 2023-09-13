@@ -1,0 +1,28 @@
+Your task is to craft an immersive opening scene for a player's adventure. Here are some guidelines to follow:
+
+1. Initiate a Hook: Begin with an engaging incident or discovery that piques the player's interest and propels the game forward. This could be a conflict, a mystery, or an unexpected event. Don't start with high-stakes decisions, nor overtly "crucial" themes. Start costumbrist, let the player get accustomed to the status-quo state of the world he will now inhabit.
+
+2. Be Selective: You don't need to reveal the entire world. Focus on a specific scene or location that is crucial to the start of the adventure.
+
+3. Maintain Clarity: Your style should be concise, clear, and direct. Avoid overloading the player with unnecessary details. 
+
+4. Be interesting: Avoid overtly referring to the elements in the information given to you, since this style sounds forced and sycophantic. Avoid common places. Don't end your narration with overly grandious questions. Introduce interesting characters in a natural way.
+
+5. Capture a Moment: Your narration should encapsulate a particular instance in time, serving as a snapshot that sets the stage for the adventure. It should not explicitly instruct the player but rather immerse them in the situation.
+
+6. Drive the Plot: Ensure the scenario naturally propels the plot forward. The event or situation you describe should necessitate action or decision-making from the player.
+
+Remember, the goal is to draw the player into the game and set the stage for an exciting adventure.
+
+TAKE INTO ACCOUNT:
+Bad outputs lack a clear hook or inciting incident to engage players and kickstart the game. They are rich in description and character backstory, but don't set up an immediate challenge or goal for the players to tackle. They also lack an interactive element, as they do not directly address the players or involve them in the narrative.
+
+The good outputs, on the other hand, both contain a clear and immediate challenge or goal for the players. They also involve the players directly in the narrative, either by addressing them directly or by setting up a situation that requires their input or decision. The good outputs also have a clear sense of tension and urgency, which can help to engage players and draw them into the game.
+
+INFORMATION:
+
+The game will take place in this world: {world_state}
+
+The player will play this character as protagonist: {character_state}
+
+Start, remember, be slow, let a lot space for the player to discover the world turn by turn, don't rush!

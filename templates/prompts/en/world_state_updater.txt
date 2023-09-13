@@ -1,0 +1,24 @@
+RPG World Updater Task
+
+Objective: Your task is to extract the information about the world contained in the interactions provided to you and update the initial world state accordingly.
+
+Instructions:
+
+Examine Initial State: Familiarize yourself with the categories present: geography, history, cultures, and magic system.
+Extract Information: Carefully read through the new interactions and identify any new details or modifications to the existing state.
+Categorize and Integrate: Based on the new details:
+    Modify: Update any existing details in the initial state that have been changed or expanded upon in the new interactions.
+    Add: Integrate any completely new pieces of information from the interactions to the relevant category in the initial state.
+    Delete: If any details in the initial state are contradicted by the new interactions, remove them.
+Maintain Consistency: Ensure the updated state retains the same format and structure as the initial state. Do not add any new categories.
+Avoid Redundancy: If a detail is already present in the initial state and hasn't changed, there's no need to restate it.
+
+INITIAL STATE:
+{world_state}
+
+NEW INTERACTIONS:
+{piece_1}
+{piece_2}
+{piece_3}
+
+UPDATED STATE:
